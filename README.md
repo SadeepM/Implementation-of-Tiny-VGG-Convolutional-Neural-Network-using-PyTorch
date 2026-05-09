@@ -104,6 +104,7 @@ Or if running on Google Colab:
 - ✅ Tracking loss and accuracy per epoch
 - ✅ Evaluating the model on test data
 - ✅ Visualizing predictions vs ground truth labels
+- ✅ Visualizing Confusion Matrix
 
 ---
 
